@@ -1,29 +1,31 @@
 # electrical_machines_gui_team_project
-This is a GUI project created in Python.
+This is a GUI project created in Python and its libraries.
 It plots the OCC and ZPF characteristics from the data sets given by the user for a 3 phase cylindrical rotor synchronous machine.
 After reading the data, the algorithm also constructs Potier triangle and finds out leakage reactance and armature reaction reactance of the machine.
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
+
+<br>A snippet of the graph obtained:<br>
 <img src="https://github.com/priya03ranjan01/machines_gui/blob/main/graph.png"> </a>
-<br>I got to have hands on experience on:
-<li>Python
-<li>Tensorflow
-<li>Deep Learning
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-www.shapeai.tech
-or follow SHAPEAI on: 
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+<img src="https://github.com/priya03ranjan01/machines_gui/blob/main/graph.png"> </a>
+
+The project was guided by Dr. Shubhobrata Rudra.<br>
+The other teams mates include:
+<li>Madhushmita Barik
+<li>Annesha Sahu
+<li>Amanjeet Pani<br>
+
+I got to learn a lot during the period this project making.<br>
+Each one played their different roles diligently making the overall results fruitful.
+<br>
+<br>The libraries used in this project are:
+<li>matplotlib
+<li>numpy
+<li>tkinter
+<li>scipy
+<li>shapely
+<li>pandas  <br>
+We also created a ppt to elaborate the algorithm and theory used in the project. 
+The link of which can be found as -  
+<a href=
+https://docs.google.com/presentation/d/17dCLQeZkGbDv15QhwdyRJ2eApp16ZxqnpVjKrOJsddY/edit#slide=id.gd643f7518d_0_783>PPT</a>
+
 
