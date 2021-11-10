@@ -1,4 +1,4 @@
-# electrical_machines_gui_team_project
+# Electrical Machines GUI Project
 This is a GUI project created using Python and its different libraries.<br>
 It plots the OCC and ZPF characteristics from the data set asked from the user for a 3 phase cylindrical rotor synchronous machine.
 After reading the data, the algorithm also constructs Potier triangle and finds out leakage reactance and armature reaction reactance of the machine.
